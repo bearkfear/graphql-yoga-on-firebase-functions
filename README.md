@@ -1,4 +1,3 @@
-#GRAHPQL YOGA E FIREBASE CLOUD FUNCTIONS
+# GraphQL on Cloud Functions
 
-Que tal? bem massa!
-GraphQL como uma função no Cloud Functions para o Firebase
+the save as REST API REPO but with GraphQL in this time!
