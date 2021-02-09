@@ -1,3 +1,3 @@
 # GraphQL on Cloud Functions
 
-the save as REST API REPO but with GraphQL in this time!
+The same as REST but with GraphQL in the root.
